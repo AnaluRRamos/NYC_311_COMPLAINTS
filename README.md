@@ -1,6 +1,6 @@
-## NYC 311 Complaints Project
+# NYC 311 Complaints Project
 
-This repository contains two main components related to the analysis and visualisation of NYC 311 complaints data:
+This repository contains two main components related to the analysis and visualization of NYC 311 complaints data:
 
 1. Explanatory Data Analysis (EDA) with R
 
@@ -10,19 +10,19 @@ Cleaning and preprocessing the NYC 311 complaints dataset.
 
 Analyzing patterns and trends in the data.
 
-Visualising key insights to identify complaint hotspots, response times, and seasonal variations.
+Visualizing key insights to identify complaint hotspots, response times, and seasonal variations.
 
-The R code provides a comprehensive analysis of the dataset, highlighting essential aspects of the data and setting the stage for further exploration through interactive visualisations.
+The R code provides a comprehensive analysis of the dataset, highlighting essential aspects of the data and setting the stage for further exploration through interactive visualizations.
 
-2. Shiny App for Interactive Visualisation
+2. Shiny App for Interactive Visualization
 
-The second part of the project is a Shiny app designed to provide an interactive visualisation of the NYC 311 complaints data. Key features of the Shiny app include:
+The second part of the project is a Shiny app designed to provide an interactive visualization of the NYC 311 complaints data. Key features of the Shiny app include:
 
 Dynamic maps displaying complaint hotspots across boroughs.
 
 Interactive filters to explore complaints by type, date range, and location.
 
-Visualisation of service response times and complaint resolutions.
+Visualization of service response times and complaint resolutions.
 
 The Shiny app aims to make the analysis accessible and engaging, allowing users to explore the data in a user-friendly interface.
 
@@ -34,7 +34,7 @@ Open the R script file in RStudio.
 
 Install any required packages listed at the top of the script.
 
-Run the script to generate insights and visualisations.
+Run the script to generate insights and visualizations.
 
 Running the Shiny App
 
@@ -42,8 +42,4 @@ Ensure you have R and the shiny package installed.
 
 Open the Shiny app script in RStudio.
 
-Click on Run App to launch the interactive visualisation in your browser.
-
-Data Source
-
-The data used in this project is sourced from the NYC Open Data platform, focusing on 311 service requests.
+Click on Run App to launch the interactive visualization in your browser.
